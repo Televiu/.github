@@ -2,7 +2,7 @@
 > This project is currently under construction. Changes and updates will be applied in the future.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/d46d9df3-7013-4d84-8905-90a2f934bcd5" alt="Frame_151-removebg-preview" width="300">
+  <img src="https://github.com/user-attachments/assets/5711f260-544f-4127-98e6-ced27e173b83" alt="Frame_151-removebg-preview" width="300">
 </p>
 
 <p align="center">Televiu is a simple and intuitive TV player for M3U playlists, designed for kiosk environments.</p>
